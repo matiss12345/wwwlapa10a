@@ -1,7 +1,7 @@
 function motivacija() {
     const teksti = [
         "Katrs treniņš tevi padara stiprāku!",
-        "Nepadodies – rezultāti nāks!",
+        "Nepadodies rezultāti nāks!",
         "Mazie soļi ved uz lieliem mērķiem!",
         "Sāc šodien, nevis rīt!"
     ];
